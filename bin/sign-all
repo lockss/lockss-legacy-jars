@@ -1,7 +1,7 @@
 #!/bin/sh
 
 for f in `find maven2 -name '*.pom' -o -name '*.jar'` ; do
-  gpg -sao "${f}.asc" "${f}"
+  gpg --armor --detach-sign "${f}"
   for s in md5 sha1 ; do
     "${s}sum" "${f}" > "${f}.${s}"
   done
