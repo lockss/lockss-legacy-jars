@@ -40,6 +40,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <version>1.1-p1</version>
 
   <name>org.lockss.legacy:com-gentlyweb-utils</name>
-  <description>LOCKSS legacy version of gentlyWEB-utils-1.1.jar.jar</description>
+  <description>LOCKSS legacy version of gentlyWEB-utils-1.1.jar</description>
   
 </project>
