@@ -37,7 +37,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   
   <groupId>org.lockss.legacy</groupId>
   <artifactId>org-mortbay-jetty</artifactId>
-  <version>5.1.5-p2</version>
+  <version>5.1.5-p4</version>
 
   <name>org.lockss.legacy:org-mortbay-jetty</name>
   <description>LOCKSS legacy version of jetty-5.1.5L.jar</description>
